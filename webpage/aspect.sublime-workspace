@@ -1,0 +1,1418 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"neares",
+				"nearestDistance"
+			],
+			[
+				"BLOCK",
+				"BLOCKTRAIL"
+			],
+			[
+				"min",
+				"minIndex"
+			],
+			[
+				"map",
+				"map_precision_4"
+			],
+			[
+				"no",
+				"nowrap\twhite-space"
+			],
+			[
+				"cu",
+				"counter"
+			],
+			[
+				"sub",
+				"subfolder"
+			],
+			[
+				"text-",
+				"text-decoration\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"back",
+				"background-position\tproperty"
+			],
+			[
+				"Silicon",
+				"Silicon Valley"
+			],
+			[
+				"paddi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"Engla",
+				"England"
+			],
+			[
+				"Page",
+				"PageAttrs"
+			],
+			[
+				"bacgkr",
+				"background-size"
+			],
+			[
+				"sp",
+				"spritePaths\tmap[string][]string ν"
+			],
+			[
+				"slide_te",
+				"slide_template_j"
+			],
+			[
+				"Den",
+				"Denmark"
+			],
+			[
+				"grand-ope",
+				"grand-opening-dublin"
+			],
+			[
+				"under",
+				"understanding"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"O",
+				"OGImage\tstring ν"
+			],
+			[
+				"Print",
+				"Printf\t ƒ"
+			],
+			[
+				"P",
+				"PathMatches\tbool ƒ"
+			],
+			[
+				"OG",
+				"OGTitle\tstring ν"
+			],
+			[
+				"po",
+				"pointer-events"
+			],
+			[
+				"Org",
+				"OrgList\tstruct ʈ"
+			],
+			[
+				"fi",
+				"firstImage"
+			],
+			[
+				"title",
+				"titleOverride"
+			],
+			[
+				"Cu",
+				"CurrentOrgId"
+			],
+			[
+				"ди",
+				"директор"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"exter",
+				"external-links"
+			],
+			[
+				"selector",
+				"selector-wrapper"
+			],
+			[
+				"a",
+				"aUrl\tstring ν"
+			],
+			[
+				"Tr",
+				"TrimPrefix\tstring ƒ"
+			],
+			[
+				"scientology",
+				"scientology-today"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"Slide",
+				"SlideshowImage\tstring ν"
+			],
+			[
+				"De",
+				"DeployCtx\tstring ν"
+			],
+			[
+				"The",
+				"ThumbnailImage\tstring ν"
+			],
+			[
+				"Sli",
+				"SlideshowImage\tstring ν"
+			],
+			[
+				"Th",
+				"ThumbnailImage\tstring ν"
+			],
+			[
+				"Imag",
+				"Image800x450\tstring ν"
+			],
+			[
+				"Ima",
+				"Image300x200\tstring ν"
+			],
+			[
+				"current",
+				"currently"
+			],
+			[
+				"is",
+				"isjQuery"
+			],
+			[
+				"String",
+				"toString"
+			],
+			[
+				"valid",
+				"validPosition"
+			],
+			[
+				"enc",
+				"enclosingDiv"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"medium-",
+				"medium-insert-images"
+			],
+			[
+				"shi",
+				"shiftKey"
+			],
+			[
+				"curre",
+				"currentElement"
+			],
+			[
+				"ele",
+				"elemEdited"
+			],
+			[
+				"k",
+				"key"
+			],
+			[
+				"editable_",
+				"editable_body"
+			],
+			[
+				"getC",
+				"getCaretPosition"
+			],
+			[
+				"vid",
+				"vid_fh"
+			],
+			[
+				"t",
+				"transition"
+			],
+			[
+				"org_id_",
+				"org_id_not_matches"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"Prin",
+				"Printf\t ƒ"
+			],
+			[
+				"UR",
+				"RequestURI\tstring ν"
+			],
+			[
+				"Editable",
+				"EditableAttrsList\t[]*EditableAttrs ʈ"
+			],
+			[
+				"SITE",
+				"SITE_NAME\t Ɩ"
+			],
+			[
+				"OrgI",
+				"CurrentOrgId\tstring ƒ"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"ins",
+				"inside-our-church"
+			],
+			[
+				"lorem",
+				"lorem-ipsum"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"insi",
+				"inside-view-scientology-tells-atlanta"
+			],
+			[
+				"psychia",
+				"psychiatrist"
+			],
+			[
+				"Spli",
+				"SplitN\t[]string ƒ"
+			],
+			[
+				"U",
+				"URL\t*url.URL ν"
+			],
+			[
+				"in",
+				"initial"
+			],
+			[
+				"pr",
+				"proxy_password"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 810,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 6898,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/usr/local/etc/nginx/servers/aspect.conf",
+			"settings":
+			{
+				"buffer_size": 991,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 329.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"RandomR",
+				"Random:DateTimeRFC3339"
+			],
+			[
+				"ranrfc",
+				"Random:DateTimeRFC3339"
+			]
+		],
+		"width": 470.0
+	},
+	"console":
+	{
+		"height": 566.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"turn_on_debug_mode()",
+			"turn_on_debug_mode",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/adanchenkov/Code/aspect",
+		"/Users/adanchenkov/Code/aspect/css"
+	],
+	"file_history":
+	[
+		"/Users/adanchenkov/Code/aspect/index.html",
+		"/Users/adanchenkov/Downloads/s.js",
+		"/Users/adanchenkov/Code/aspect/aspect.sublime-project",
+		"/Users/adanchenkov/Sites/microservices/src/vendor/inetgit.staff.scientology.net/sites/data_videos/videos.xml",
+		"/Users/adanchenkov/Code/aspect/.gitignore",
+		"/usr/local/etc/nginx/servers/aspect.conf",
+		"/usr/local/etc/nginx/servers/narconon.conf",
+		"/usr/local/etc/nginx/servers/capmonster.conf",
+		"/usr/local/etc/nginx/servers/sanity-check.conf",
+		"/usr/local/etc/nginx/nginx.conf",
+		"/usr/local/var/log/nginx/aspect-error.log",
+		"/usr/local/var/log/nginx/aspect-access.log",
+		"/Users/adanchenkov/Code/aspect/css/main.css",
+		"/Users/adanchenkov/Sites/scientology/views-gotako/theme/gsc_headers/slide-templates-new.css",
+		"/Users/adanchenkov/Sites/scientology/text/default/gcui_scientology-135-stuttgart-grand-opening.xml",
+		"/Users/adanchenkov/Sites/scientology/data/slides/stuttgart-grand-opening.xml",
+		"/Users/adanchenkov/Sites/scientology/includes/bs/header/slide-templates-new-dynamic-image-sizes.html",
+		"/Users/adanchenkov/Sites/scientology/text/default/gcui_scientology-142-aosh-africa-opening.xml",
+		"/Users/adanchenkov/Sites/scientology/data/slides/aosh-africa-grand-opening.xml",
+		"/Users/adanchenkov/Sites/scientology/editable/scientology-today/church-openings/grand-opening-advanced-org-saint-hill-africa.html",
+		"/Users/adanchenkov/Sites/scientology/src/site_www_scientology_org2/features.go",
+		"/Users/adanchenkov/Sites/scientology/src/site_www_scientology_org2/redirects.go",
+		"/Users/adanchenkov/Sites/cms-workdir/repos/www.scientology.tv-editable/public/6f/b3/6f3084ad-b3ad-4604-85ba-2a8cf7c05a18.fm",
+		"/Users/adanchenkov/Sites/cms-workdir/repos/www.scientology.tv-editable/public/44/3b/44f4dac4-3b99-4cf8-ba61-3c8cfd55b1f4.fm",
+		"/Users/adanchenkov/Sites/cms-workdir/repos/www.scientology.tv-editable/public/ce/cf/cec99866-cf14-4a11-bc9b-d95c3d3e0078.fm",
+		"/Users/adanchenkov/Sites/scientology/views/theme/css/custom-slides.css",
+		"/Users/adanchenkov/Sites/scientology/editable/scientology-today/church-openings/advanced-org-saint-hill-anzo-grand-opening.html",
+		"/Users/adanchenkov/Sites/scientology/src/site_www_scientology_org2/webstack-proxy-handler.go",
+		"/Users/adanchenkov/Sites/scientology/text/default/gcui_scientology-142-aosh-africa-grand-opening.xml",
+		"/Users/adanchenkov/Sites/scientology/src/inetgit.staff.scientology.net/sites/data_orgs/data_orgs.go",
+		"/Users/adanchenkov/Sites/whois/editable/blog/articles/sex-in-the-cities-seedy-parlors.html",
+		"/Users/adanchenkov/Sites/scientology/editable/scientology-today/events/maiden-voyage-2018.html",
+		"/Users/adanchenkov/Sites/scientology/data/slides/mv2018.xml",
+		"/Users/adanchenkov/Sites/scientology/src/site_www_scientology_org2/context.go",
+		"/Users/adanchenkov/Sites/scientology/text/default/gcui_scientology-139-mv2018.xml",
+		"/Users/adanchenkov/Sites/scientology/includes/bs/org-events.html",
+		"/Users/adanchenkov/Sites/scientology/includes/slides/mv2018-award-right-curacao.html",
+		"/Users/adanchenkov/Sites/scientology/includes/slides/mv2018-award-right.html",
+		"/Users/adanchenkov/Sites/scientology/includes/slides/mv2018-award-left.html",
+		"/Users/adanchenkov/Sites/davidmiscavige/editable/about/biography/l-ron-hubbards-trusted-friend.html",
+		"/Users/adanchenkov/Sites/scientology/includes/slides/mv2018-award-colombia.html",
+		"/Users/adanchenkov/Sites/scientology/includes/slides/mv2018-award-aruba.html",
+		"/Users/adanchenkov/Sites/scientology/views-gotako/theme/gsc_headers/responsive-slider.css",
+		"/Users/adanchenkov/Sites/scientology/views/theme/css/www.scientology.org.css",
+		"/Users/adanchenkov/bin/crop-slides.rb",
+		"/Users/adanchenkov/Sites/scientology/editable/scientology-today/church-openings/grand-opening-orlando.html",
+		"/Users/adanchenkov/Sites/stand/editable/news/media-watch/20180627-people-of-faith-should-be-treated-with-decency.html",
+		"/usr/local/etc/cntlm.conf",
+		"/Users/adanchenkov/.curlrc",
+		"/Users/adanchenkov/Sites/scientology/includes/bs/header/org-opening-press-release.html",
+		"/Users/adanchenkov/Sites/scientology/includes/new-years-2015-press-release-header.html",
+		"/Users/adanchenkov/Sites/scientology/includes/fonts.html",
+		"/Users/adanchenkov/Sites/scientology/data/slides/lrh2018.xml",
+		"/Users/adanchenkov/Sites/scientology/editable/scientology-today/events/scientology-network.html",
+		"/Users/adanchenkov/Sites/scientology/data/slides.xml",
+		"/Users/adanchenkov/Sites/scientology/includes/bs/tracking.html",
+		"/Users/adanchenkov/Sites/scientology/includes/slides/mv2018-ias-campaigns-right.html",
+		"/Users/adanchenkov/Sites/scientology/includes/slides/mv2018-ias-campaigns-y-right.html",
+		"/Users/adanchenkov/Downloads/pip-installs",
+		"/Users/adanchenkov/Sites/scientology/views-gotako/theme/gsc_headers/responsive-slider-zooming.css",
+		"/Users/adanchenkov/.zsh_history",
+		"/Users/adanchenkov/Sites/scientology/editable/news/maiden-voyage-2016.html",
+		"/Users/adanchenkov/Sites/scientology/includes/slides/mv2018-n5-22.html",
+		"/Users/adanchenkov/Sites/scientology/data/slides/mv2018-1.xml",
+		"/Users/adanchenkov/Sites/scientology/editable/news/maiden-voyage-2018.html",
+		"/Users/adanchenkov/Downloads/missing-event-shots-ids.txt",
+		"/Users/adanchenkov/Sites/scientology/includes/slides/mv2018-award-curacao.html",
+		"/Users/adanchenkov/Downloads/list-out.txt",
+		"/Users/adanchenkov/Sites/scientology/text/default/gcui_events-016-mv-2018-emails.xml",
+		"/Users/adanchenkov/Sites/scientology/data/slides/salt-lake-city-grand-opening.xml",
+		"/Users/adanchenkov/Sites/scientology/views-gotako/international-events/current/confirm-mv.html",
+		"/Users/adanchenkov/Sites/scientology/text/default/gcui_scientology-132-lrh2018-event.xml",
+		"/Users/adanchenkov/Library/Application Support/Sublime Text 3/Installed",
+		"/Users/adanchenkov/Library/Application Support/Sublime Text 3/Packages/Default/Main.sublime-menu",
+		"/Users/adanchenkov/Library/Application Support/Sublime Text 3/Packages/PyV8/osx-p3/config.json",
+		"/Users/adanchenkov/Sites/scientology/editable/news/maiden-voyage-2017.html",
+		"/Users/adanchenkov/Sites/scientology/includes/bs/store/floating-product-details.html",
+		"/Users/adanchenkov/Sites/scientology/src/inetgit.staff.scientology.net/sites/data_orgs/orgs.xml",
+		"/Users/adanchenkov/Sites/scientology/src/site_www_scientology_org2/security-handler.go",
+		"/Users/adanchenkov/Sites/scientology/editable/scientology-today/church-openings/grand-opening-stuttgart.html",
+		"/Users/adanchenkov/.zshrc",
+		"/Users/adanchenkov/Sites/scientology/views-orgs/orl/inside-our-church/grand-opening.html",
+		"/Users/adanchenkov/Sites/scientology/src/inetgit.staff.scientology.net/sites/data_orgs/_gcui_globaldata_static_cache.php",
+		"/Users/adanchenkov/Sites/scientology/src/inetgit.staff.scientology.net/sites/data_orgs/orgs_legacy.xml",
+		"/Users/adanchenkov/Sites/scientology/includes/bs/inline/org-mosaic.html",
+		"/Users/adanchenkov/Sites/scientology/data/scnvideos.xml",
+		"/Users/adanchenkov/Sites/scientology/includes/bs/header/churches-mosaic.html",
+		"/Users/adanchenkov/Sites/scientology/src/inetgit.staff.scientology.net/sites/data_sites/sites.go",
+		"/Users/adanchenkov/Sites/scientology/src/site_www_scientology_org2/admin_handler.go",
+		"/Users/adanchenkov/Sites/scientology/src/site_www_scientology_org2/legacy.go",
+		"/Users/adanchenkov/Sites/scientology/src/site_www_scientology_org2/main_diff_test.go",
+		"/Users/adanchenkov/Sites/scientology/src/site_www_scientology_org2/main_errors_test.js",
+		"/Users/adanchenkov/Sites/scientology/src/site_www_scientology_org2/main_store_test.go",
+		"/Users/adanchenkov/Sites/scientology/src/inetgit.staff.scientology.net/gocsi/authoring/utils.go",
+		"/Users/adanchenkov/Sites/scientology/text/default/gcui_scientology-135-orgsite-stuttgart.xml",
+		"/Users/adanchenkov/Sites/scientology/views-gotako/theme/gsc_headers/slide-templates-new.html",
+		"/Users/adanchenkov/Sites/scientology/editable/scientology-today/church-openings/grand-opening-salt-lake-city.html",
+		"/Users/adanchenkov/Sites/scientology/editable/scientology-today/church-openings/grand-opening-perth.html",
+		"/Users/adanchenkov/Sites/scientology/views-gotako/expansion/org-mosaic.css",
+		"/Users/adanchenkov/Sites/scientology/src/inetgit.staff.scientology.net/sites/data_videos/videos.xml",
+		"/Users/adanchenkov/Sites/scientology/views/theme/flash-video-channel/dxml/tags/meetscn-professions-all.xml",
+		"/Users/adanchenkov/Sites/scientology/data/scnvideo-categories.xml",
+		"/Users/adanchenkov/Sites/scientology/views/sitemap-videos.html",
+		"/Users/adanchenkov/Sites/scientology/text/default/gcui_scientology-136-orgsite-perth.xml",
+		"/Users/adanchenkov/Sites/scientology/web/theme/flash-video-channel/data/xml/playlists/video-channel.xml",
+		"/Users/adanchenkov/Sites/scientology/editable/david-miscavige/at-helm-in-era-of-expansion/index.html",
+		"/Users/adanchenkov/Sites/scientology/views/churches/ideal-orgs/index.html",
+		"/Users/adanchenkov/Sites/scientology/data/slides/orlando-grand-opening.xml",
+		"/Users/adanchenkov/index.html",
+		"/Users/adanchenkov/Sites/scientology/text/default/gcui_scientology-134-orlando-grand-opening.xml",
+		"/Users/adanchenkov/Sites/scientology/git",
+		"/Users/adanchenkov/Sites/scientology/st",
+		"/Users/adanchenkov/Sites/scientology/text/default/gcui_scientology-136-perth-grand-opening.xml",
+		"/Users/adanchenkov/Sites/scientology/src/site_www_scientology_org2/org_handler.go",
+		"/Users/adanchenkov/Sites/scientology/src/site_www_scientology_org2/ideal_orgs_handler.go",
+		"/Users/adanchenkov/Sites/scientology/text/default/gcui_scientology-134-orgsite-orlando.xml",
+		"/Users/adanchenkov/Sites/scientology/text/default/gcui_scientology-131-salt-lake-city-grand-opening.xml",
+		"/Users/adanchenkov/Sites/scientology/data/header-flyout-menus.xml",
+		"/Users/adanchenkov/Sites/tv/run-live.sh",
+		"/Users/adanchenkov/Sites/scientology/editable/scientology-today/church-openings/grand-opening-church-of-scientology-atlanta-georgia.html",
+		"/Users/adanchenkov/Sites/scientology/editable/scientology-today/church-openings/grand-opening-miami.html",
+		"/Users/adanchenkov/Sites/scientology/views/scientology-today/church-openings/church-of-scientology-tampa-florida.html",
+		"/Users/adanchenkov/Sites/scientology/views-orgs/orl/inside-our-church/index.html",
+		"/Users/adanchenkov/Sites/scientology/includes/bs/body/home-welcome.html",
+		"/Users/adanchenkov/Sites/narconon/editable/blog/is-drug-trafficking-the-same-as-domestic-terrorism.html",
+		"/Users/adanchenkov/Sites/scientology/views/churches/ideal-orgs/ideal-org-template.html",
+		"/Users/adanchenkov/Sites/scientology/views-orgs/ped/inside-our-church/index.html",
+		"/Users/adanchenkov/Sites/scientology/views-orgs/ped/inside-our-church/grand-opening.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+			"<project>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console",
+			"submit",
+			"mapPrecision4",
+			"mapPrecision2",
+			"precision2",
+			" = 0.01",
+			"m-0b",
+			"7:\"7x1\", ",
+			"20:\"20x1\"",
+			", 5:\"5x1\"",
+			"undefined",
+			"difference",
+			"nxt",
+			"arguments[2]",
+			"map_precision_2",
+			"map_precision_4",
+			"map_precision_4.",
+			"narconon",
+			"submit",
+			"form.",
+			"Form",
+			"form",
+			"\n        ",
+			"match[1]",
+			"match[2]",
+			"\t",
+			"\t1x4",
+			"my-form",
+			"str",
+			"aspect_ratio",
+			"element_1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								653,
+								670
+							]
+						],
+						"settings":
+						{
+							"SL.1128.region_keys":
+							[
+								"SL.csslint.Highlights.|3a133ca181e1d4097cd2cf162e3edf0563ae4292fe5c6d516a3e18c9a330eef5|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.csslint.Highlights.|8149589020d4f9ee4963744c34b5631a725f0501b1e4292e9aac809c89335270|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|147e5aa0ed39ed351b47c697245c233608751a277aa6d0b81b30f55ee1e8cfa8|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.csslint.Highlights.|af61acf268e4900cff3abdbd609a7b3c024ac602a9cdd8c7a5c33c37887ba25b|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|d68dcdab18698fa90bcbeca4f39c28715dac21955539d75aae2ffb62142a7661|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|b34991009aeb43065729c2e82a1f4dfb7de68b5aa1aee91bcd9b30c714dcb854|region.yellowish markup.warning.sublime_linter|32"
+							],
+							"SL.1188.region_keys":
+							[
+								"SL.csslint.Highlights.|3a133ca181e1d4097cd2cf162e3edf0563ae4292fe5c6d516a3e18c9a330eef5|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.csslint.Highlights.|8149589020d4f9ee4963744c34b5631a725f0501b1e4292e9aac809c89335270|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|147e5aa0ed39ed351b47c697245c233608751a277aa6d0b81b30f55ee1e8cfa8|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.csslint.Highlights.|af61acf268e4900cff3abdbd609a7b3c024ac602a9cdd8c7a5c33c37887ba25b|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|d68dcdab18698fa90bcbeca4f39c28715dac21955539d75aae2ffb62142a7661|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|b34991009aeb43065729c2e82a1f4dfb7de68b5aa1aee91bcd9b30c714dcb854|region.yellowish markup.warning.sublime_linter|32"
+							],
+							"SL.1246.region_keys":
+							[
+								"SL.csslint.Highlights.|af61acf268e4900cff3abdbd609a7b3c024ac602a9cdd8c7a5c33c37887ba25b|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|0a5920a38bcd095c0f7657a2657ffc6abbf402e67d6faac74074e87645e74ded|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|8149589020d4f9ee4963744c34b5631a725f0501b1e4292e9aac809c89335270|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.csslint.Highlights.|147e5aa0ed39ed351b47c697245c233608751a277aa6d0b81b30f55ee1e8cfa8|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|3a133ca181e1d4097cd2cf162e3edf0563ae4292fe5c6d516a3e18c9a330eef5|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.csslint.Highlights.|2a28e8770aaa8c90d29187a988a3db82698cd9ce8dbf05c8d0706a68752bab57|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|f784525f36bda8dd707c8ecc5c56038678fca1cdfb9e64deec77cd2648091369|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|f963e7a7de99111c46ea8f4f2694d8a8c3346cd6b59cf604df1cebadd6e748ba|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|b34991009aeb43065729c2e82a1f4dfb7de68b5aa1aee91bcd9b30c714dcb854|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|e16bc5d494167260ce63bc815537f68b3ec2f806df79931564e1dfab4fd40520|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|d68dcdab18698fa90bcbeca4f39c28715dac21955539d75aae2ffb62142a7661|region.yellowish markup.warning.sublime_linter|32"
+							],
+							"SL.127.region_keys":
+							[
+							],
+							"SL.231.region_keys":
+							[
+								"SL.csslint.Highlights.|0a5920a38bcd095c0f7657a2657ffc6abbf402e67d6faac74074e87645e74ded|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|e16bc5d494167260ce63bc815537f68b3ec2f806df79931564e1dfab4fd40520|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|d68dcdab18698fa90bcbeca4f39c28715dac21955539d75aae2ffb62142a7661|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|af61acf268e4900cff3abdbd609a7b3c024ac602a9cdd8c7a5c33c37887ba25b|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|3a133ca181e1d4097cd2cf162e3edf0563ae4292fe5c6d516a3e18c9a330eef5|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"sublime_linter.protected_regions",
+								"SL.csslint.Highlights.|f963e7a7de99111c46ea8f4f2694d8a8c3346cd6b59cf604df1cebadd6e748ba|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|8149589020d4f9ee4963744c34b5631a725f0501b1e4292e9aac809c89335270|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|f784525f36bda8dd707c8ecc5c56038678fca1cdfb9e64deec77cd2648091369|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|2a28e8770aaa8c90d29187a988a3db82698cd9ce8dbf05c8d0706a68752bab57|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|b34991009aeb43065729c2e82a1f4dfb7de68b5aa1aee91bcd9b30c714dcb854|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|147e5aa0ed39ed351b47c697245c233608751a277aa6d0b81b30f55ee1e8cfa8|region.yellowish markup.warning.sublime_linter|32"
+							],
+							"SL.376.region_keys":
+							[
+								"SL.csslint.Highlights.|af61acf268e4900cff3abdbd609a7b3c024ac602a9cdd8c7a5c33c37887ba25b|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|f963e7a7de99111c46ea8f4f2694d8a8c3346cd6b59cf604df1cebadd6e748ba|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|0a5920a38bcd095c0f7657a2657ffc6abbf402e67d6faac74074e87645e74ded|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|147e5aa0ed39ed351b47c697245c233608751a277aa6d0b81b30f55ee1e8cfa8|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|2a28e8770aaa8c90d29187a988a3db82698cd9ce8dbf05c8d0706a68752bab57|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|3a133ca181e1d4097cd2cf162e3edf0563ae4292fe5c6d516a3e18c9a330eef5|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|d68dcdab18698fa90bcbeca4f39c28715dac21955539d75aae2ffb62142a7661|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"sublime_linter.protected_regions",
+								"SL.csslint.Highlights.|f784525f36bda8dd707c8ecc5c56038678fca1cdfb9e64deec77cd2648091369|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|b34991009aeb43065729c2e82a1f4dfb7de68b5aa1aee91bcd9b30c714dcb854|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|8149589020d4f9ee4963744c34b5631a725f0501b1e4292e9aac809c89335270|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|e16bc5d494167260ce63bc815537f68b3ec2f806df79931564e1dfab4fd40520|region.yellowish markup.warning.sublime_linter|32"
+							],
+							"SL.942.region_keys":
+							[
+								"SL.csslint.Highlights.|af61acf268e4900cff3abdbd609a7b3c024ac602a9cdd8c7a5c33c37887ba25b|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|0a5920a38bcd095c0f7657a2657ffc6abbf402e67d6faac74074e87645e74ded|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|8149589020d4f9ee4963744c34b5631a725f0501b1e4292e9aac809c89335270|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.csslint.Highlights.|147e5aa0ed39ed351b47c697245c233608751a277aa6d0b81b30f55ee1e8cfa8|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|3a133ca181e1d4097cd2cf162e3edf0563ae4292fe5c6d516a3e18c9a330eef5|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.csslint.Highlights.|2a28e8770aaa8c90d29187a988a3db82698cd9ce8dbf05c8d0706a68752bab57|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|f784525f36bda8dd707c8ecc5c56038678fca1cdfb9e64deec77cd2648091369|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|f963e7a7de99111c46ea8f4f2694d8a8c3346cd6b59cf604df1cebadd6e748ba|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|b34991009aeb43065729c2e82a1f4dfb7de68b5aa1aee91bcd9b30c714dcb854|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|e16bc5d494167260ce63bc815537f68b3ec2f806df79931564e1dfab4fd40520|region.yellowish markup.warning.sublime_linter|32",
+								"SL.csslint.Highlights.|d68dcdab18698fa90bcbeca4f39c28715dac21955539d75aae2ffb62142a7661|region.yellowish markup.warning.sublime_linter|32"
+							],
+							"apply_syntax_touched": true,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6898,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								573
+							]
+						],
+						"settings":
+						{
+							"SL.6634.region_keys":
+							[
+								"SL.eslint.Highlights.|7a4be4b728445db1f177f0b466c32b5d3e85a35d26a79b08d85e98a267de7fad|region.redish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot"
+							],
+							"SL.6715.region_keys":
+							[
+								"SL.eslint.Highlights.|7a4be4b728445db1f177f0b466c32b5d3e85a35d26a79b08d85e98a267de7fad|region.redish markup.error.sublime_linter|32",
+								"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
+								"sublime_linter.protected_regions"
+							],
+							"apply_syntax_touched": true,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/User/syntax/HTML-Template.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/usr/local/etc/nginx/servers/aspect.conf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 991,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/sublime-nginx-master/Syntaxes/nginx.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/adanchenkov/Sites/scientology/src/site_www_scientology_org2":
+	{
+		"height": 148.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 148.0
+	},
+	"output.GsDoc-output-output":
+	{
+		"height": 148.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sublime_linter_panel":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "aspect.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index.",
+				"index.html"
+			],
+			[
+				"africaxml",
+				"data/slides/aosh-africa-grand-opening.xml"
+			],
+			[
+				"stutt",
+				"text/default/gcui_scientology-135-stuttgart-grand-opening.xml"
+			],
+			[
+				"stuttdxml",
+				"data/slides/stuttgart-grand-opening.xml"
+			],
+			[
+				"custom",
+				"views/theme/css/custom-slides.css"
+			],
+			[
+				"features",
+				"src/site_www_scientology_org2/features.go"
+			],
+			[
+				"featre",
+				"src/site_www_scientology_org2/features.go"
+			],
+			[
+				"advancedanzo",
+				"editable/scientology-today/church-openings/advanced-org-saint-hill-anzo-grand-opening.html"
+			],
+			[
+				"dataorg",
+				"src/inetgit.staff.scientology.net/sites/data_orgs/data_orgs.go"
+			],
+			[
+				"conte",
+				"src/site_www_scientology_org2/context.go"
+			],
+			[
+				"",
+				"editable/scientology-today/events/maiden-voyage-2018.html"
+			],
+			[
+				"cont",
+				"src/site_www_scientology_org2/context.go"
+			],
+			[
+				"ides/mv2018-award-colombia.html",
+				"includes/slides/mv2018-award-colombia.html"
+			],
+			[
+				"includes/slides/mv2018-award-aruba.html",
+				"includes/slides/mv2018-award-aruba.html"
+			],
+			[
+				"mv2018-award-right-curacao",
+				"includes/slides/mv2018-award-right-curacao.html"
+			],
+			[
+				"includes/slides/mv2018-award-left.html",
+				"includes/slides/mv2018-award-left.html"
+			],
+			[
+				"feature",
+				"src/site_www_scientology_org2/features.go"
+			],
+			[
+				"ata/slides/mv2018.xml",
+				"data/slides/mv2018.xml"
+			],
+			[
+				"orlando",
+				"editable/scientology-today/church-openings/grand-opening-orlando.html"
+			],
+			[
+				"fon",
+				"includes/fonts.html"
+			],
+			[
+				"dynam",
+				"includes/bs/header/slide-templates-new-dynamic-image-sizes.html"
+			],
+			[
+				"lrh2018",
+				"data/slides/lrh2018.xml"
+			],
+			[
+				"scientology-today/events/scientology-network.html",
+				"editable/scientology-today/events/scientology-network.html"
+			],
+			[
+				"slides",
+				"data/slides.xml"
+			],
+			[
+				"featur",
+				"src/site_www_scientology_org2/features.go"
+			],
+			[
+				"tracking",
+				"includes/bs/tracking.html"
+			],
+			[
+				"mv218",
+				"data/slides/mv2018.xml"
+			],
+			[
+				"mv2018",
+				"editable/news/maiden-voyage-2018.html"
+			],
+			[
+				"confirmmv",
+				"views-gotako/international-events/current/confirm-mv.html"
+			],
+			[
+				"newcss",
+				"views-gotako/theme/gsc_headers/slide-templates-new.css"
+			],
+			[
+				"dyna",
+				"includes/bs/header/slide-templates-new-dynamic-image-sizes.html"
+			],
+			[
+				"slide",
+				"data/slides.xml"
+			],
+			[
+				"maiden-voyage-201",
+				"editable/news/maiden-voyage-2017.html"
+			],
+			[
+				"redirect",
+				"src/site_www_scientology_org2/redirects.go"
+			],
+			[
+				"scientologynetwork",
+				"editable/scientology-today/events/scientology-network.html"
+			],
+			[
+				"m2017xml",
+				"data/slides/mv2017.xml"
+			],
+			[
+				"maide",
+				"editable/news/maiden-voyage-2017.html"
+			],
+			[
+				"maiden-voyage-2017.htm",
+				"editable/scientology-today/events/maiden-voyage-2017.html"
+			],
+			[
+				"stuttxml",
+				"data/slides/stuttgart-grand-opening.xml"
+			],
+			[
+				"redire",
+				"src/site_www_scientology_org2/redirects.go"
+			],
+			[
+				"135",
+				"text/default/gcui_scientology-135-orgsite-stuttgart.xml"
+			],
+			[
+				"slidetemplate",
+				"includes/bs/header/slide-templates-new-dynamic-image-sizes.html"
+			],
+			[
+				"tempcss",
+				"views-gotako/theme/gsc_headers/slide-templates-new.css"
+			],
+			[
+				"feat",
+				"src/site_www_scientology_org2/features.go"
+			],
+			[
+				"orgs",
+				"src/inetgit.staff.scientology.net/sites/data_orgs/orgs.xml"
+			],
+			[
+				"sitemap",
+				"views/sitemap-videos.html"
+			],
+			[
+				"scnvideo-ca",
+				"data/scnvideo-categories.xml"
+			],
+			[
+				"scnvideos",
+				"data/scnvideos.xml"
+			],
+			[
+				"videos",
+				"src/inetgit.staff.scientology.net/sites/data_videos/videos.xml"
+			],
+			[
+				"134",
+				"text/default/gcui_scientology-134-orlando-grand-opening.xml"
+			],
+			[
+				"136",
+				"text/default/gcui_scientology-136-perth-grand-opening.xml"
+			],
+			[
+				"openings/grand-opening-salt-lake-city.html",
+				"editable/scientology-today/church-openings/grand-opening-salt-lake-city.html"
+			],
+			[
+				"org-mosaic.html",
+				"includes/bs/inline/org-mosaic.html"
+			],
+			[
+				"vid-miscavige/at-helm-in-era-of-expansion/",
+				"editable/david-miscavige/at-helm-in-era-of-expansion/index.html"
+			],
+			[
+				"/bs/header/churches-mosaic.html",
+				"includes/bs/header/churches-mosaic.html"
+			],
+			[
+				"/david-miscavige/at-helm-in-era-of-expansion/index.html",
+				"editable/david-miscavige/at-helm-in-era-of-expansion/index.html"
+			],
+			[
+				"mosaic",
+				"includes/bs/header/churches-mosaic.html"
+			],
+			[
+				"orghandle",
+				"src/site_www_scientology_org2/org_handler.go"
+			],
+			[
+				"mosa",
+				"views-gotako/expansion/org-mosaic.css"
+			],
+			[
+				"datasites",
+				"src/inetgit.staff.scientology.net/sites/data_sites/sites.go"
+			],
+			[
+				"featu",
+				"src/site_www_scientology_org2/features.go"
+			],
+			[
+				"es/ideal-orgs/",
+				"views/churches/ideal-orgs/index.html"
+			],
+			[
+				"grandopeningorland",
+				"editable/scientology-today/church-openings/grand-opening-orlando.html"
+			],
+			[
+				"grandper",
+				"editable/scientology-today/church-openings/grand-opening-perth.html"
+			],
+			[
+				"grandorlando",
+				"editable/scientology-today/church-openings/grand-opening-orlando.html"
+			],
+			[
+				"grandmiami",
+				"editable/scientology-today/church-openings/grand-opening-miami.html"
+			],
+			[
+				"miami",
+				"editable/scientology-today/church-openings/grand-opening-miami.html"
+			],
+			[
+				"grandopeatlanta",
+				"editable/scientology-today/church-openings/grand-opening-church-of-scientology-atlanta-georgia.html"
+			],
+			[
+				"tampa",
+				"views/scientology-today/church-openings/church-of-scientology-tampa-florida.html"
+			],
+			[
+				"orghan",
+				"src/site_www_scientology_org2/org_handler.go"
+			],
+			[
+				"slide.xml",
+				"data/slides.xml"
+			],
+			[
+				"viewsorgsorlgrnadopening.html",
+				"views-orgs/orl/inside-our-church/grand-opening.html"
+			],
+			[
+				"cache",
+				"src/inetgit.staff.scientology.net/sites/data_orgs/_gcui_globaldata_static_cache.php"
+			],
+			[
+				"orgsleg",
+				"src/inetgit.staff.scientology.net/sites/data_orgs/orgs_legacy.xml"
+			],
+			[
+				"orgs.xml",
+				"src/inetgit.staff.scientology.net/sites/data_orgs/orgs.xml"
+			],
+			[
+				"sldie",
+				"data/slides.xml"
+			],
+			[
+				"redi",
+				"src/site_www_scientology_org2/redirects.go"
+			],
+			[
+				"churchesindex",
+				"views/churches/index.html"
+			],
+			[
+				"grandpet",
+				"editable/scientology-today/church-openings/grand-opening-perth.html"
+			],
+			[
+				"silicon",
+				"editable/scientology-today/church-openings/grand-opening-silicon-valley.html"
+			],
+			[
+				"idealorg",
+				"src/site_www_scientology_org2/ideal_orgs_handler.go"
+			],
+			[
+				"/events/scientology-network.htm",
+				"editable/scientology-today/events/scientology-network.html"
+			],
+			[
+				"churchidealorgsinde",
+				"views/churches/ideal-orgs/index.html"
+			],
+			[
+				"/churches/ideal-orgs/",
+				"views/churches/ideal-orgs/ideal-org-template.html"
+			],
+			[
+				"orgs.",
+				"src/inetgit.staff.scientology.net/sites/data_orgs/orgs.xml"
+			],
+			[
+				"grandopenings",
+				"editable/scientology-today/church-openings/grand-opening-silicon-valley.html"
+			],
+			[
+				"grandopeperth",
+				"editable/scientology-today/church-openings/grand-opening-perth.html"
+			],
+			[
+				"perg",
+				"data/slides/perth-grand-opening.xml"
+			],
+			[
+				"menus",
+				"data/menus.xml"
+			],
+			[
+				"slidex",
+				"data/slides.xml"
+			],
+			[
+				"hurches/ideal-orgs/",
+				"views/churches/ideal-orgs/ideal-org-template.html"
+			],
+			[
+				"grandperth",
+				"editable/scientology-today/church-openings/grand-opening-perth.html"
+			],
+			[
+				"perthgr",
+				"data/slides/perth-grand-opening.xml"
+			],
+			[
+				"idealorgsindex",
+				"views/churches/ideal-orgs/index.html"
+			],
+			[
+				"grandopeningorla",
+				"editable/scientology-today/church-openings/grand-opening-orlando.html"
+			],
+			[
+				"perthrch/grand-opening.html",
+				"views-orgs/budapest/inside-our-church/grand-opening.html"
+			],
+			[
+				"graperth",
+				"editable/scientology-today/church-openings/grand-opening-perth.html"
+			],
+			[
+				"perth",
+				"data/slides/perth-grand-opening.xml"
+			],
+			[
+				"sitedata.go",
+				"src/inetgit.staff.scientology.net/sites/data_sites/data.go"
+			],
+			[
+				"grandopeningsilicon",
+				"editable/scientology-today/church-openings/grand-opening-silicon-valley.html"
+			],
+			[
+				"viewsindex",
+				"views/index.html"
+			],
+			[
+				"grandpe",
+				"editable/scientology-today/church-openings/grand-opening-perth.html"
+			],
+			[
+				"aoanzo",
+				"editable/scientology-today/church-openings/advanced-org-saint-hill-anzo-grand-opening.html"
+			],
+			[
+				"melb",
+				"views/scientology-today/church-openings/church-of-scientology-melbourne-australia.html"
+			],
+			[
+				"sydney",
+				"views/scientology-today/church-openings/grand-opening-church-of-scientology-sydney.html"
+			],
+			[
+				"pert",
+				"editable/scientology-today/church-openings/grand-opening-perth.html"
+			],
+			[
+				"orghand",
+				"src/site_www_scientology_org2/org_handler.go"
+			],
+			[
+				"customcss",
+				"views/theme/css/custom-slides.css"
+			],
+			[
+				"slidecss",
+				"views-gotako/theme/gsc_headers/slide-templates-new.css"
+			],
+			[
+				"dataorgsxml",
+				"src/inetgit.staff.scientology.net/sites/data_orgs/orgs.xml"
+			],
+			[
+				"dataorgs",
+				"src/inetgit.staff.scientology.net/sites/data_orgs/data_orgs.go"
+			],
+			[
+				"orlandogra",
+				"data/slides/orlando-grand-opening.xml"
+			],
+			[
+				"grandsla",
+				"editable/scientology-today/church-openings/grand-opening-salt-lake-city.html"
+			],
+			[
+				"saltgrand",
+				"data/slides/salt-lake-city-grand-opening.xml"
+			],
+			[
+				"orlandoxml",
+				"data/slides/orlando-grand-opening.xml"
+			],
+			[
+				"videox",
+				"src/inetgit.staff.scientology.net/sites/data_videos/videos.xml"
+			],
+			[
+				"orgsxml",
+				"src/inetgit.staff.scientology.net/sites/data_orgs/orgs.xml"
+			],
+			[
+				"stuttga",
+				"text/default/gcui_scientology-135-stuttgart-grand-opening.xml"
+			],
+			[
+				"store",
+				"src/site_www_scientology_org2/store-handler.go"
+			],
+			[
+				"loca",
+				"views/churches/locator.html"
+			],
+			[
+				"viewindex",
+				"views/index.html"
+			],
+			[
+				"locator",
+				"views/churches/locator.html"
+			],
+			[
+				"saltlakexml",
+				"data/slides/salt-lake-city-grand-opening.xml"
+			],
+			[
+				"siliconxml",
+				"text/default/gcui_scientology-130-silicon-valley-grand-opening.xml"
+			],
+			[
+				"confirm",
+				"data/events/current/confirm-email.html"
+			],
+			[
+				"amster",
+				"text/default/gcui_scientology-123-amsterdam-grand-opening.xml"
+			],
+			[
+				"datatype",
+				"src/gogs.standardadmin.org/gocsi/gokart/datatypes.go"
+			],
+			[
+				"main.g",
+				"src/site_www_scientology_org2/main.go"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 444.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

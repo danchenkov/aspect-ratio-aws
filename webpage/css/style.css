@@ -1,0 +1,47 @@
+form {
+    max-width: calc(100% - 36px);
+    padding: 6px 12px;
+}
+form label {
+    margin: 0;
+    padding: 0;
+}
+form input {
+    width: calc(100% - 4px);
+    display: block;
+    margin-bottom: 6px;
+    padding: 0;
+}
+form input[type="text"] {
+    width: 100%;
+    padding: 2px 3px;
+}
+form input[type="submit"] {
+    width: 100%;
+    padding: 8px 0;
+}
+#result_22261 {
+    /*border: 1px dotted red;*/
+    margin: 0 12px;
+    padding: 6px 0;
+    max-width: 320px;
+    min-height: 1.5rem;
+}
+#result_22261 p {
+    margin: 0.25rem 0;
+    width: calc(100% - 4px);
+    min-height: 1rem;
+}
+#aspect_ratio section {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+#aspect_ratio h3 {
+    color: hsla(240, 74%, 50%, 1);
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#aspect_ratio p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
